@@ -2,10 +2,11 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Orsay Documentation",
   "logo": {
-    "dark": "/images/Logo.jpg",
-    "light": "/images/Logo.jpg"
+    
+    "dark": "/Logo-circle.png",
+    "light": "/Logo-circle.png"
   },
-  "favicon": "/Logo.svg",
+  "favicon": "/Logo-circle.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -19,7 +20,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "https://orsay.ai/"
     }
   ],
  
@@ -27,7 +28,7 @@
  
   "navigation": [
     {
-      "group": "Documentation",
+      "group": "📋 Orsay Documentation",
       "pages": [
         "sections/sequences",
         "sections/conversations",
