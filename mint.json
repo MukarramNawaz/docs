@@ -17,13 +17,14 @@
     }
     
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "https://orsay.ai/"
-    }
-  ],
- 
+  "font": {
+    "family": "Muli"
+  },
+
+ "topbarCtaButton": {
+    "name": "Orsay AI",
+    "url": "https://orsay.ai/"
+  },
   
  
   "navigation": [
