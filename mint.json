@@ -35,10 +35,17 @@
         "sections/conversations",
         "sections/agents",
         "sections/integrations",
+        
+        {
+          "group": "Prompts",
+            "pages": [
+              "sections/prompt_advice",
+              "sections/Creating_your_own_Prompt"
+            ],"icon": "lightbulb","iconType": "regular"
+
+        },
         "sections/settings_and_profile",
-        "sections/faq",
-        "sections/prompt_advice",
-        "sections/Creating_your_own_Prompt"
+        "sections/faq"
       ]
     }
     
